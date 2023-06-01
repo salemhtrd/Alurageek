@@ -1,0 +1,14 @@
+.productos {
+    background: var(--fondo-productos);
+    display: flex;
+    flex-direction: column;
+    padding: 4rem 0;
+    min-height: calc(100vh - 117.4px);;
+}
+
+@media screen and (max-width: 1024px) {
+    .productos {
+        padding: 2rem 0;  
+        min-height: calc(100vh - 76.8px);
+    }
+}

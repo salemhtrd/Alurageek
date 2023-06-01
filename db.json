@@ -1,0 +1,182 @@
+{
+  "usuario": [
+    {
+      "email": "alura@alura.com",
+      "contraseña": "alura"
+    },
+    {
+      "email": "alura2@alura.com",
+      "contraseña": "alura2"
+    }
+  ],
+  "producto": [
+    {
+      "url": "assets/img/dePrueba/unsplash_1VV1MRafd7A.png",
+      "categoria": "Star Wars",
+      "nombre": "Figura de acción de Kylo Ren",
+      "precio": "$ 79,05",
+      "descripcion": "Soldado imperial, edicion de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": 1
+    },
+    {
+      "url": "assets/img/dePrueba/unsplash_4OHkK555s1A.png",
+      "categoria": "Star Wars",
+      "nombre": "Star Wars - Figura Soldado Imperial- Hasbro",
+      "precio": "$ 44,98",
+      "descripcion": "Soldado imperial, edicion de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": 2
+    },
+    {
+      "url": "assets/img/dePrueba/unsplash_6FDXGY9J6y4.png",
+      "categoria": "Star Wars",
+      "nombre": "Taza Soldado Imperial",
+      "precio": "$ 14,99",
+      "descripcion": "Soldado imperial, edicion de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": 3
+    },
+    {
+      "url": "assets/img/dePrueba/unsplash_KeGToDVN0l4.png",
+      "categoria": "Star Wars",
+      "nombre": "Star Wars - Figura Yoda - Hasbro",
+      "precio": "$ 24,49",
+      "descripcion": "Soldado imperial, edición de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": 5
+    },
+    {
+      "url": "assets/img/dePrueba/unsplash_R8L1l9RN198.png",
+      "categoria": "Star Wars",
+      "nombre": "Mattel Baby Yoda Peluche",
+      "precio": "$ 62,50",
+      "descripcion": "Soldado imperial, edicion de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": 6
+    },
+    {
+      "url": "assets/img/dePrueba/Skill (1).png",
+      "categoria": "Consolas",
+      "nombre": "Sony PlayStation 5",
+      "precio": "$ 699,00",
+      "descripcion": "Soldado imperial, edicion de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": 7
+    },
+    {
+      "url": "assets/img/dePrueba/Skill.png",
+      "categoria": "Consolas",
+      "nombre": "Control Xbox One",
+      "precio": "$ 29,90",
+      "descripcion": "Soldado imperial, edicion de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": 8
+    },
+    {
+      "url": "assets/img/dePrueba/Skill (2).png",
+      "categoria": "Consolas",
+      "nombre": "Controles Nintendo Switch",
+      "precio": "$ 30,59",
+      "descripcion": "Soldado imperial, edición de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": 9
+    },
+    {
+      "url": "assets/img/dePrueba/Skill (4).png",
+      "categoria": "Consolas",
+      "nombre": "Consola Gameboy",
+      "precio": "$ 24,99",
+      "descripcion": "Soldado imperial, edicion de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": 11
+    },
+    {
+      "url": "assets/img/dePrueba/unsplash_ZV7lnfyQLmA.png",
+      "categoria": "Consolas",
+      "nombre": "Nintendo Classic Mini NES",
+      "precio": "$ 198,95",
+      "descripcion": "Soldado imperial, edicion de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": 12
+    },
+    {
+      "url": "assets/img/dePrueba/unsplash_epRFE_hBNjo.png",
+      "categoria": "Star Wars",
+      "nombre": "LEGO - Casco de Darth Vader",
+      "precio": "$ 79,00",
+      "descripcion": "Soldado imperial, edición de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": "51cfc07c-2208-4b0c-8fe2-e15569064b77"
+    },
+    {
+      "url": "assets/img/dePrueba/Skill (3).png",
+      "categoria": "Consolas",
+      "nombre": "Xbox Series X",
+      "precio": "$ 495,01",
+      "descripcion": "Soldado imperial, edición de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": "5bbf71e0-5518-4f41-8a04-8cd5f237fa74"
+    },
+    {
+      "url": "assets/img/dePrueba/Diversos6.png",
+      "categoria": "Diversos",
+      "nombre": "Traje Pikacho p/adulto",
+      "precio": "$ 699,00",
+      "descripcion": "Soldado imperial, edición de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": "d6"
+    },
+    {
+      "url": "assets/img/dePrueba/Diversos5.png",
+      "categoria": "Diversos",
+      "nombre": "Casco de realidad virtual - Sony",
+      "precio": "$ 229,02",
+      "descripcion": "Soldado imperial, edición de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": "d5"
+    },
+    {
+      "url": "assets/img/dePrueba/Diversos4.png",
+      "categoria": "Diversos",
+      "nombre": "Reloj despertador",
+      "precio": "$ 27,00",
+      "descripcion": "Soldado imperial, edición de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": "d4"
+    },
+    {
+      "url": "assets/img/dePrueba/Diversos1.png",
+      "categoria": "Diversos",
+      "nombre": "Atari-Camiseta de lona",
+      "precio": "$ 18,90",
+      "descripcion": "Soldado imperial, edición de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": "d1"
+    },
+    {
+      "url": "assets/img/dePrueba/Diversos3.png",
+      "categoria": "Diversos",
+      "nombre": "Figura SONIC",
+      "precio": "$ 9,99",
+      "descripcion": "Soldado imperial, edición de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": "d3"
+    },
+    {
+      "url": "assets/img/dePrueba/Diversos2.png",
+      "categoria": "Diversos",
+      "nombre": "T-Shirt Game Nes pad joystick Nintendo",
+      "precio": "$ 21,90",
+      "descripcion": "Soldado imperial, edición de coleccionista año 1998, fuera de su empaque original (que no se incluye), en condicionas 7 de 10.",
+      "id": "d2"
+    },
+    {
+      "url": "assets/img/dePrueba/monopoly-star-wars.jpg",
+      "categoria": "Star Wars",
+      "nombre": "Monopoly Star Wars",
+      "precio": "$ 7.85",
+      "descripcion": "Board Game Part: GAMEBOARD ONLY Limited Collector's Edition.",
+      "id": "e8c0dc0b-85c8-4754-aabe-58b12ec25fd8"
+    },
+    {
+      "url": "assets/img/dePrueba/nintendo-64-console.jpg",
+      "categoria": "Consolas",
+      "nombre": "Nintendo 64",
+      "precio": "$ 99.99",
+      "descripcion": "N64 console +1 OEMcontrollers+AC+Choice Accessories Used Region free",
+      "id": "52ca658d-b64c-42d5-8007-00e2994cb4a7"
+    },
+    {
+      "url": "assets/img/dePrueba/silla-gamer.jpg",
+      "categoria": "Diversos",
+      "nombre": "Silla de Gaming de Cuero",
+      "precio": "$ 715.99",
+      "descripcion": "Silla de Gaming de Cuero, Asiento Ajustable Para Gaming, Juega Cómodo",
+      "id": "d5ea1d5d-35a0-4702-84a0-11e7b73766fa"
+    }
+  ]
+}
